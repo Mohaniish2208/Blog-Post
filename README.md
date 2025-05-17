@@ -24,3 +24,17 @@ A simple blog preview card component built using HTML and CSS as part of the Fro
 - Clean and minimalistic layout.
 - Hover effects for the badge and image.
 - Structured and organized code.
+
+---
+
+## 📝 License
+
+-This project is licensed under the MIT License. 
+
+---
+
+## 📍 Acknowledgements
+
+Challenge by Frontend Mentor
+
+Coded by Mohaniish Ingolle
